@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "901752627480",
+    "firebase_url": "https://mr-remember-cce6f.firebaseio.com",
+    "project_id": "mr-remember-cce6f",
+    "storage_bucket": "mr-remember-cce6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901752627480:android:61939fb7a4cbd8c4",
+        "android_client_info": {
+          "package_name": "sasolution.com.mrremember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901752627480-m77ee9cr4ojq9gfdm53cbu5qk53jcc95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sasolution.com.mrremember",
+            "certificate_hash": "b12b8d10ec57cfccb471a4fb3809a1986c4dfc8e"
+          }
+        },
+        {
+          "client_id": "901752627480-mrev8qpllj6r561mglacnc9pe11ncos7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9VCJcGWcp6vn7ZbJO1yQ8mTfpAewJ7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901752627480-mrev8qpllj6r561mglacnc9pe11ncos7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
